@@ -8,7 +8,7 @@
 - 🎓 Dean's List student at FAST-NUCES with GPA above 3.5  
 - 🚀 Currently building cool stuff with Python & JavaScript  
 - 💡 Obsessed with AI, Automation, Web Scraping & Frontend Dev  
-- 📫 Reach me: filzaxsalman@gmail.com  
+- 📫 Reach me: filzasalman1412@gmail.com  
 
 ---
 
